@@ -3,7 +3,10 @@
 
 <div align="center" >
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=northernwolf00&theme=react&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api?username=northernwolf00&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=northernwolf00&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=northernwolf00&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,java,kotlin,swift,nodejs,react,cpp,flutter,dart,firebase,gradle,xd,ai,figma&theme=light)](https://skillicons.dev)

@@ -77,6 +77,8 @@ Digital reading app with clean UI and smooth reading experience.
 
  📍 Ashgabat, Turkmenistan · 📧 guwanchaldurdyyew01@gmail.com · [🌐 Portfolio](https://northernwolf-portfolio.vercel.app)
 
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=northernwolf00)
+
 ![Open to remote](https://img.shields.io/badge/Open%20to%20remote%20opportunities-worldwide-1D9E75?style=flat)
   
 </div>

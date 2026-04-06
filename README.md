@@ -21,16 +21,16 @@ Mobile App & Fullstack Developer with **5+ years of commercial experience** buil
 
 ## Tech stack
 
-### 📱 Mobile
+###  Mobile
 `Kotlin` `Java` `Swift` `Flutter` `React Native` `Jetpack Compose` `Android SDK` `Compose Multiplatform`
 
-### 🖥 Backend & API
+###  Backend & API
 `Node.js` `TypeScript` `Express` `REST APIs` `GraphQL` `WebSockets`
 
-### 🗄 Data & Cloud
+###  Data & Cloud
 `PostgreSQL` `MongoDB` `Firebase` `RevenueCat` `FCM`
 
-### ⚙️ Architecture & DevOps
+###  Architecture & DevOps
 `Clean Architecture` `MVVM` `Dependency Injection` `Docker` `GitLab CI/CD` `Git` `Scrum`
 
 ---
